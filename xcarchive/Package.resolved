@@ -1,0 +1,51 @@
+{
+  "originHash" : "a2103cbd80b8f11d56a72fda5b35e2498de21517b9a980c75f7fad45ab767bf0",
+  "pins" : [
+    {
+      "identity" : "colorizer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/getGuaka/Colorizer.git",
+      "state" : {
+        "revision" : "2ccc99bf1715e73c4139e8d40b6e6b30be975586",
+        "version" : "0.2.1"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "8f4d2753f0e4778c76d5f05ad16c74f707390531",
+        "version" : "1.2.3"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "9cb486020ebf03bfa5b5df985387a14a98744537",
+        "version" : "1.6.1"
+      }
+    },
+    {
+      "identity" : "xcbeautify",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/cpisciotta/xcbeautify.git",
+      "state" : {
+        "revision" : "6ba826167c6b301e7adeb35398cf7d1c27367661",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "xmlcoder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MaxDesiatov/XMLCoder.git",
+      "state" : {
+        "revision" : "b1e944cbd0ef33787b13f639a5418d55b3bed501",
+        "version" : "0.17.1"
+      }
+    }
+  ],
+  "version" : 3
+}
