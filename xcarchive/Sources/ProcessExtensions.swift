@@ -25,7 +25,7 @@ final class ProcessLogger: ProcessLogHandler {
             }
 
             guard buffer.indices.contains(currentLineIndex) else {
-                preconditionFailure("Parser requested more line than buffer size. Please increase `maxBufferSize`")
+                return nil
             }
 
             defer { currentLineIndex += 1 }
